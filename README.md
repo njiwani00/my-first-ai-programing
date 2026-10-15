@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Classroom: Learn Retrieval-Augmented Generation by Building It
 
 A complete, beginner-friendly RAG project for teaching students. Every part of a RAG system is written in plain, commented Python so students can read it, change it and see what happens.
@@ -251,3 +252,7 @@ print(answer.prompt)                     # exactly what the LLM saw
 | `No module named 'docx'` | `pip install -r requirements.txt` again (it now includes `python-docx`). |
 | A PDF gives empty text | It's a scanned image. Use a PDF with selectable text, or OCR it first. |
 | Answers are always "I don't know" | Lower `MIN_SCORE` in `.env`, or check that your files are in `data/`. |
+=======
+# my-first-ai-programing
+i am in learning  phase
+>>>>>>> f6664c6fc52d5b2b3d1a27bfe82e0fe649559fde
