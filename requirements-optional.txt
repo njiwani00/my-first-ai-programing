@@ -1,0 +1,4 @@
+# Optional: neural embeddings that understand MEANING, not just words.
+# Downloads PyTorch (~200 MB+) and a ~90 MB model on first use.
+# After installing, set EMBEDDER=sentence-transformers in .env
+sentence-transformers>=2.7

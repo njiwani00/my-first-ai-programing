@@ -1,0 +1,9 @@
+code,course,instructor,credits,day,time,room,prerequisite
+CS101,Introduction to Programming,Dr. Anil Kumar,4,Monday and Wednesday,9:00 AM,Block A Room 101,None
+CS201,Data Structures,Dr. Meera Rao,4,Tuesday and Thursday,11:00 AM,Block A Room 204,CS101
+CS301,Machine Learning,Prof. Ravi Shankar,3,Monday and Friday,2:00 PM,Block B Lab 3,CS201 and MA201
+CS305,Generative AI and RAG,Dr. Priya Nair,3,Wednesday,3:00 PM,Block B Lab 1,CS301
+MA101,Calculus,Dr. Suresh Iyer,4,Monday and Thursday,10:00 AM,Block C Room 12,None
+MA201,Linear Algebra and Statistics,Dr. Kavitha Menon,4,Tuesday and Friday,9:00 AM,Block C Room 14,MA101
+PH101,Physics for Engineers,Dr. Arjun Das,3,Wednesday and Friday,11:00 AM,Block D Room 5,None
+EN101,Technical Communication,Ms. Fatima Sheikh,2,Thursday,2:00 PM,Block A Room 110,None
